@@ -36,7 +36,11 @@ Experienced professional with a demonstrated history of working in the governmen
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=capelobo&layout=compact&langs_count=7&theme=dracula"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=capelobo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
-  
+
+![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=dark&animation=grow_out_in&quoteCategory=fun)
+ 
+![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=dark&animation=grow_out_in&quoteCategory=programming)
+ 
 ![Snake animation](https://github.com/capelobo/capelobo/blob/output/github-contribution-grid-snake.svg)
   
 <!--
