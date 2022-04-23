@@ -30,6 +30,13 @@ Experienced professional with a demonstrated history of working in the governmen
 <a href="https://www.linkedin.com/in/capelobo" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 
 </div>
+
+<div>
+<a href="https://github.com/seu-usuário-aqui">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=capelobo&layout=compact&langs_count=7&theme=dracula"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=capelobo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
+![Snake animation](https://github.com/capelobo/capelobo/blob/output/github-contribution-grid-snake.svg)
 <!--
 **capelobo/capelobo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 miro
